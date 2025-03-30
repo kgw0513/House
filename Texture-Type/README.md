@@ -6,4 +6,4 @@
 ## &nbsp;● 재질의 종류
 
 &nbsp; * 재질의 종류로는 대표적으로 __구조재__, __외장재__, __내장재__, __단열재__ 등이 있습니다.
- * <a href="https://github.com/kgw0513/House/blob/039a612e84f26008c6f786c5400e316a1d77e86a/Texture-Type/Structural_materials.md"> 구조재 </a>
+ * <a href="https://github.com/kgw0513/House/blob/Texture/Texture-Type/Structural_materials.md"> 구조재 </a>
